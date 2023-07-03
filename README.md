@@ -1,16 +1,16 @@
-# https://www.python.org/psf/trademarks-faq/ python-coding-exercises
+# python-coding-exercises
 This repository contains solutions to problems and coding challenges solved in Python. Various Python concepts.
 
-## Data Structure 
+### Data Structure 
   - List
   - List comprehension
   - tuple
   - set
   - dictionary
-## Loops
+### Loops
   - for loop
   - while loop
-## OOPs concept
+### OOPs concept
   - Inheritance
   - encapsulation
   - polymorphism
