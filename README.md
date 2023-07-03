@@ -1,4 +1,4 @@
-# python-coding-exercises
+# https://www.python.org/psf/trademarks-faq/ python-coding-exercises
 This repository contains solutions to problems and coding challenges solved in Python. Various Python concepts.
 
 ## Data Structure 
